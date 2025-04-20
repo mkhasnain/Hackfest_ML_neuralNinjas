@@ -1,0 +1,8 @@
+names:
+- FireExtinguisher
+- ToolBox
+- OxygenTank
+nc: 3
+test: /kaggle/input/hackfest-data/Hackfest_dataset/test/images
+train: /kaggle/input/hackfest-data/Hackfest_dataset/train/images
+val: /kaggle/input/hackfest-data/Hackfest_dataset/val/images
